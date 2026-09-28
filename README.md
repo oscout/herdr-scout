@@ -18,7 +18,7 @@ of its own.
 ## Install
 
 ```bash
-herdr plugin install arach/herdr-scout
+herdr plugin install oscout/herdr-scout
 ```
 
 Requires herdr 0.9.0+, [Bun](https://bun.sh), and Scout itself:
