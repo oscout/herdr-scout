@@ -1,3 +1,5 @@
+<p align="center"><img src="./assets/banner.png" alt="The Scout mark, joined by one line to herdr's tiled panes" width="100%" /></p>
+
 # herdr-scout
 
 Scout inside [herdr](https://herdr.dev). Ask your Scout agents from any pane,
