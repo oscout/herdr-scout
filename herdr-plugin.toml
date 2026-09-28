@@ -1,0 +1,38 @@
+id = "openscout.scout"
+name = "Scout"
+version = "0.1.0"
+min_herdr_version = "0.9.0"
+description = "Ask your Scout agents from any pane, send a selection to one, and keep the Scout feed beside your work"
+platforms = ["linux", "macos"]
+
+[[actions]]
+id = "ask"
+title = "Scout: ask an agent"
+contexts = ["global", "workspace", "tab", "pane"]
+command = ["bun", "scout-herdr.ts", "open", "ask"]
+
+[[actions]]
+id = "ask-selection"
+title = "Scout: ask about the selection"
+contexts = ["selection"]
+command = ["bun", "scout-herdr.ts", "open", "ask"]
+
+[[actions]]
+id = "feed"
+title = "Scout: open the feed"
+contexts = ["global", "workspace", "tab", "pane"]
+command = ["bun", "scout-herdr.ts", "open", "feed"]
+
+[[panes]]
+id = "ask"
+title = "Ask Scout"
+placement = "popup"
+width = "70%"
+height = 16
+command = ["bun", "scout-herdr.ts", "ask"]
+
+[[panes]]
+id = "feed"
+title = "Scout feed"
+placement = "split"
+command = ["bun", "scout-herdr.ts", "feed"]
