@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" width="1600" height="500" role="img" aria-labelledby="herdr-dark-t herdr-dark-d">
+<title id="herdr-dark-t">Scout and Herdr</title>
+<desc id="herdr-dark-d">Scout runs along a seam of Herdr's split terminal panes and lands at the prompt of one pane.</desc>
+<rect width="1600" height="500" fill="#101112"/>
+<g transform="translate(111.44 209.38) scale(0.34426)">
+  <path d="M103.01 13.21 Q112 8 120.99 13.21 L198.01 57.79 Q207 63 207 73.39 L207 162.61 Q207 173 198.01 178.21 L120.99 222.79 Q112 228 103.01 222.79 L25.99 178.21 Q17 173 17 162.61 L17 73.39 Q17 63 25.99 57.79 Z" fill="none" stroke="#fff7ea" stroke-width="24" stroke-linejoin="round"/>
+  <path d="M112 70 154 94v48l-42 24-42-24V94Z" fill="#fff7ea"/></g>
+<rect x="372" y="92" width="1088" height="316" rx="8" fill="none" stroke="#fff7ea" stroke-opacity="0.46" stroke-width="2"/>
+<path d="M760 92 V408 M1150 92 V408 M372 250 H760 M760 196 H1150 M760 304 H1150 M1150 330 H1460" fill="none" stroke="#fff7ea" stroke-opacity="0.46" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<line x1="398" y1="124" x2="648" y2="124" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<line x1="398" y1="148" x2="698" y2="148" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<line x1="398" y1="172" x2="578" y2="172" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<line x1="398" y1="196" x2="618" y2="196" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<path d="M396 213 L403 220 L396 227" fill="none" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<line x1="418" y1="220" x2="502" y2="220" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<line x1="398" y1="282" x2="598" y2="282" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<line x1="398" y1="306" x2="538" y2="306" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<path d="M396 369 L403 376 L396 383" fill="none" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<line x1="418" y1="376" x2="472" y2="376" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<line x1="786" y1="124" x2="1046" y2="124" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<line x1="786" y1="148" x2="976" y2="148" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<line x1="786" y1="336" x2="996" y2="336" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<line x1="786" y1="360" x2="1066" y2="360" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<line x1="1176" y1="124" x2="1406" y2="124" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<line x1="1176" y1="148" x2="1356" y2="148" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<line x1="1176" y1="172" x2="1426" y2="172" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<line x1="1176" y1="196" x2="1296" y2="196" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<line x1="1176" y1="220" x2="1376" y2="220" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<path d="M1174 361 L1181 368 L1174 375" fill="none" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<line x1="1196" y1="368" x2="1300" y2="368" stroke="#fff7ea" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+<clipPath id="herdr-dark-herdr-corner"><rect x="1150" y="330" width="310" height="78" rx="8"/></clipPath>
+<g clip-path="url(#herdr-dark-herdr-corner)"><svg x="1398.00" y="346.00" width="62.00" height="62.00" viewBox="0 0 512 512" overflow="visible"><g fill="#fff7ea" transform="translate(0 512) scale(.1 -.1)"><path d="M2794 3710 c-129 -33 -299 -135 -359 -214 -21 -28 -26 -42 -21 -63 9 -38 154 -178 199 -192 32 -11 41 -9 104 23 171 86 354 70 475 -43 150 -138 150 -379 0 -511 -107 -95 -278 -94 -386 2 l-46 40 -11 -29 c-16 -40 -14 -122 4 -164 60 -144 264 -222 452 -174 360 92 559 494 430 868 -36 103 -81 173 -175 267 -71 72 -100 93 -180 132 -52 26 -127 54 -167 62 -96 21 -230 20 -319 -4z M2183 3695 c-116 -32 -221 -108 -273 -199 -17 -28 -30 -54 -30 -58 0 -4 20 1 45 12 66 28 220 68 294 76 64 7 65 7 137 83 40 41 71 77 69 79 -2 2 -21 8 -42 13 -55 12 -140 10 -200 -6z M2212 3388 c-159 -22 -390 -122 -559 -241 -299 -210 -585 -600 -609 -828 -12 -118 40 -251 125 -318 96 -76 178 -98 426 -116 110 -8 224 -21 254 -29 125 -34 230 -115 272 -211 11 -24 24 -81 30 -127 20 -170 65 -271 166 -374 34 -35 63 -65 63 -67 0 -1 -10 -27 -22 -57 -29 -76 -37 -259 -14 -350 42 -170 158 -318 311 -397 44 -23 98 -46 120 -52 22 -6 45 -14 51 -18 5 -5 15 -48 22 -96 6 -48 14 -92 17 -97 4 -6 415 -10 1131 -10 l1124 0 0 1584 0 1585 -55 -19 c-84 -29 -143 -68 -232 -154 l-83 -78 -54 49 c-111 102 -233 151 -391 160 -113 6 -199 -10 -298 -54 l-60 -27 -26 34 c-37 51 -120 134 -127 128 -3 -4 0 -34 7 -67 17 -89 7 -268 -21 -356 -103 -328 -377 -545 -688 -545 -161 0 -273 41 -373 137 -37 35 -66 75 -85 116 -79 173 -8 407 124 407 44 0 68 -14 117 -66 74 -78 167 -82 238 -9 60 62 72 147 33 231 -42 90 -120 130 -238 122 -50 -4 -85 -14 -131 -37 -89 -45 -122 -52 -176 -40 -92 20 -262 163 -302 253 -11 25 -21 45 -22 45 -1 -1 -30 -6 -65 -11z m-256 -505 c115 -88 129 -102 132 -131 2 -18 -2 -40 -9 -49 -7 -8 -69 -55 -138 -105 -103 -73 -130 -88 -151 -83 -35 8 -51 34 -48 74 3 31 12 42 83 92 44 31 80 61 82 66 1 4 -30 31 -69 58 -39 28 -77 56 -85 63 -18 19 -16 72 4 94 32 35 63 23 199 -79z m528 -88 c23 -24 28 -52 14 -82 l-13 -28 -141 -3 c-130 -2 -142 -1 -158 17 -23 26 -24 66 -1 91 16 18 32 20 151 20 105 0 136 -3 148 -15z"/></g></svg></g>
+<rect x="372" y="92" width="1088" height="316" rx="8" fill="none" stroke="#fff7ea" stroke-opacity="0.46" stroke-width="2"/>
+<rect x="760" y="196" width="390" height="108" rx="0" fill="none" stroke="#fff7ea" stroke-opacity="1" stroke-width="2"/>
+<path d="M784 243 L791 250 L784 257" fill="none" stroke="#fff7ea" stroke-opacity="1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<line x1="810" y1="250" x2="988" y2="250" stroke="#94d59a" stroke-opacity="1" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="1000" y="238" width="11" height="24" rx="1" fill="#fff7ea" fill-opacity="1"/><path d="M186.8 250 H760" fill="none" stroke="#94d59a" stroke-width="4" stroke-linecap="butt" stroke-linejoin="round"/>
+</svg>
