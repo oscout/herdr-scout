@@ -1,21 +1,27 @@
-<p align="center"><img src="./assets/banner.png" alt="The Scout mark, joined by one line to herdr's tiled panes" width="100%" /></p>
+<p>
+  <a href="https://openscout.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/scout-lockup-light.svg" />
+      <img src="assets/scout-lockup-ink.svg" alt="Scout" height="28" />
+    </picture>
+  </a>
+</p>
 
-# herdr-scout
+# Scout for herdr
 
-Scout inside [herdr](https://herdr.dev). Ask your Scout agents from any pane,
-send a selection to one, and keep the Scout feed beside your work.
+Ask your Scout agents from any [herdr](https://herdr.dev) pane, send a selection to one, and keep the Scout feed beside your work.
 
-## What it adds
+[Install](#install) · [First ask](#first-ask) · [OpenScout](https://openscout.app) · [All integrations](https://github.com/oscout)
 
-- **Scout: ask an agent**: a popup that asks an agent. Leave the target blank
-  and the ask routes to the agent for the focused pane's project.
-- **Scout: ask about the selection**: the same popup, with the selected
-  terminal text attached as a fenced block under your question.
-- **Scout: open the feed**: a split that streams broker messages
-  (`scout watch --since 30m`).
-
-Every action goes through the `scout` CLI, so the plugin carries no broker code
-of its own.
+<!-- scout-illustration:start -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/scout-illustration-dark.svg" />
+    <img src="assets/scout-illustration-light.svg" alt="Scout connects to an active terminal pane within a tiled Herdr workspace." width="100%" />
+  </picture>
+</p>
+<p align="center"><em>Ask from a terminal pane and keep the Scout feed beside your work.</em></p>
+<!-- scout-illustration:end -->
 
 ## Install
 
@@ -31,6 +37,23 @@ scout setup
 ```
 
 Set `SCOUT_BIN` to point the plugin at a different `scout` binary.
+
+## First ask
+
+Open herdr's command palette and run **Scout: ask an agent**. Leave the target
+blank and the ask routes to the agent for the focused pane's project.
+
+## What it adds
+
+- **Scout: ask an agent**: a popup that asks an agent. Leave the target blank
+  and the ask routes to the agent for the focused pane's project.
+- **Scout: ask about the selection**: the same popup, with the selected
+  terminal text attached as a fenced block under your question.
+- **Scout: open the feed**: a split that streams broker messages
+  (`scout watch --since 30m`).
+
+Every action goes through the `scout` CLI, so the plugin carries no broker code
+of its own.
 
 ## Keybindings
 
